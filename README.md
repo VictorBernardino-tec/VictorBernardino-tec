@@ -1,97 +1,95 @@
 # Olá! Eu sou o Victor Bernardino 👋
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas** | 💻 Desenvolvedor em formação | 🚀 Apaixonado por tecnologia
+🎓 **Estudante de Análise e Desenvolvimento de Sistemas**  
+💻 **Desenvolvedor em formação**  
+🚀 **Focado em desenvolvimento web e construção de projetos reais**
 
 ## 👨‍💻 Sobre mim
 
-Meu nome é **Victor Manuel da Silva Bernardino** e estou construindo minha carreira na área de Tecnologia da Informação.
+Sou Victor Manuel da Silva Bernardino e estou construindo minha carreira na área de Tecnologia da Informação.
 
-Atualmente curso **Análise e Desenvolvimento de Sistemas** e venho desenvolvendo meus conhecimentos principalmente em desenvolvimento web, lógica de programação, versionamento de código e desenvolvimento de aplicações.
+Atualmente curso **Análise e Desenvolvimento de Sistemas** e venho desenvolvendo meus conhecimentos em desenvolvimento web, lógica de programação, APIs, bancos de dados e versionamento de código.
 
-Gosto de aprender na prática, criar projetos para meu portfólio e entender não apenas **como** uma tecnologia funciona, mas também **por que** ela é utilizada.
+Gosto de aprender colocando a mão na massa: transformo o que estudo em pequenos projetos, identifico problemas, testo soluções e procuro melhorar continuamente meu código.
 
-## 🛠️ Tecnologias e conhecimentos
+## 🛠️ Tecnologias
 
 ### Front-end
 
-<div>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-</div>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Back-end e banco de dados
 
-<div>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express">
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
-</div>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### Ferramentas
 
-<div>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
-</div>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## 🚀 Projetos
+## 🚀 Projetos em destaque
 
 ### 💇 BeautyStudioPro
 
-Sistema de agendamento para salão de beleza, com foco em serviços de unhas e sobrancelhas.
+Sistema de agendamento para salão de beleza, desenvolvido como projeto prático para aplicar conceitos de front-end, back-end, APIs e banco de dados.
 
-**Principais conceitos trabalhados:**
+**Funcionalidades e conceitos:**
 - Cadastro de clientes
-- Agendamento de serviços
-- Controle de horários
-- Bloqueio de horários já agendados
-- API com Node.js e Express
+- Cadastro de serviços
+- Cadastro de profissionais
+- Agendamento de horários
+- Controle e bloqueio de horários já ocupados
+- API REST com Node.js e Express
 - Persistência de dados com SQLite
-- Organização do projeto em controllers, models, routes e database
-- Integração planejada com WhatsApp
+- Arquitetura organizada em `routes`, `controllers`, `models` e `database`
+- Integração com WhatsApp em desenvolvimento
 
 ### 🔗 DevLinks — Tema Claro/Escuro
 
-Projeto desenvolvido para praticar desenvolvimento web, responsividade, JavaScript e manipulação do tema da página.
+Projeto desenvolvido para praticar fundamentos de desenvolvimento web e JavaScript.
 
-**Conceitos utilizados:**
+**Conceitos aplicados:**
 - HTML semântico
 - CSS e responsividade
 - JavaScript
+- Manipulação do DOM
 - `localStorage`
-- Alternância entre tema claro e escuro
+- Tema claro e escuro
 - Git e GitHub
 
 ## 📚 Atualmente estudando
 
 - JavaScript e lógica de programação
-- Desenvolvimento de APIs REST
 - Node.js e Express
+- APIs REST
 - SQLite e modelagem de dados
-- Boas práticas de HTML e CSS
+- HTML e CSS
 - Git e GitHub
-- Estruturação e organização de projetos
+- Organização e boas práticas de código
 
-## 🎯 Objetivos
+## 🎯 Objetivos profissionais
 
-Meu objetivo é evoluir continuamente como desenvolvedor, construir projetos reais para meu portfólio e conquistar minha primeira oportunidade profissional na área de tecnologia.
+Meu objetivo é evoluir como desenvolvedor, construir um portfólio consistente e conquistar minha primeira oportunidade profissional na área de tecnologia.
 
-Quero ampliar meus conhecimentos em desenvolvimento **front-end e back-end**, fortalecer minha base de programação e, futuramente, trabalhar com aplicações completas e bem estruturadas.
+Quero fortalecer minha base em programação e desenvolvimento **front-end e back-end**, criando aplicações cada vez mais completas, organizadas e funcionais.
 
-## 📊 GitHub
+## 📈 Minha evolução
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VictorBernardino-tec&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/VictorBernardino-tec)
+Estou no início da minha trajetória profissional em TI e considero cada projeto uma oportunidade para aprender algo novo. Meu foco atualmente é construir uma base sólida e transformar conhecimento teórico em experiência prática.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorBernardino-tec&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/VictorBernardino-tec)
+```text
+Aprender → Praticar → Criar → Testar → Melhorar
+```
 
 ## 📫 Contato
 
 💻 **GitHub:** [VictorBernardino-tec](https://github.com/VictorBernardino-tec)
 
----
-
-⭐ Obrigado por visitar meu perfil!
+## ⭐ Obrigado pela visita!
 
 Estou sempre buscando aprender, praticar e transformar conhecimento em projetos reais.
