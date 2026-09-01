@@ -34,21 +34,6 @@ Gosto de aprender colocando a mão na massa: transformo o que estudo em pequenos
 
 ## 🚀 Projetos em destaque
 
-### 💇 BeautyStudioPro
-
-Sistema de agendamento para salão de beleza, desenvolvido como projeto prático para aplicar conceitos de front-end, back-end, APIs e banco de dados.
-
-**Funcionalidades e conceitos:**
-- Cadastro de clientes
-- Cadastro de serviços
-- Cadastro de profissionais
-- Agendamento de horários
-- Controle e bloqueio de horários já ocupados
-- API REST com Node.js e Express
-- Persistência de dados com SQLite
-- Arquitetura organizada em `routes`, `controllers`, `models` e `database`
-- Integração com WhatsApp em desenvolvimento
-
 ### 🔗 DevLinks — Tema Claro/Escuro
 
 Projeto desenvolvido para praticar fundamentos de desenvolvimento web e JavaScript.
